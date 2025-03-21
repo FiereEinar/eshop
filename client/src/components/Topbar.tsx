@@ -53,7 +53,7 @@ function SearchBar() {
 				<Search />
 			</div>
 			<Input
-				className='pl-10 md:w-[300px] bg-custom-secondary border-none'
+				className='transition-all pl-10 md:w-[300px] bg-custom-secondary border-none'
 				placeholder='Search'
 			/>
 		</div>
